@@ -1,7 +1,8 @@
 
 
 <h1 align="center">Olá 🖖, meu nome é Jeferson David</h1>
-![download](https://github.com/Jefmz/Jefmz/assets/136089454/2b44964e-9d9c-49c3-ae16-72e4db05f0e8)
+![download](https://github.com/Jefmz/Jefmz/assets/136089454/7db9a01a-4fe5-405d-a525-5b3de79e3d4d)
+
 
 <h3 align="center">Um desenvolvedor front-end apaixonado por inovar🔗</h3>
 

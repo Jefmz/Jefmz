@@ -1,5 +1,6 @@
-https://hermes.dio.me/articles/cover/9d10886c-9e82-45f8-96a7-fb99fe281239.png
-<h3 align="center">Um desenvolvedor front-end apaixonado por inovar🔗</h3>
+
+<h3 align="![Uploading download.jpg…]()
+center">Um desenvolvedor front-end apaixonado por inovar🔗</h3>
 
 - 🔭 Atualmente estou trabalhando na criação de um softwere **Softwere**
 

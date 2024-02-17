@@ -3,12 +3,12 @@
 <h3 align="![Uploading download.jpg…]()                                                                                                         
 center">Um desenvolvedor front-end apaixonado por inovar🔗</h3>
 
-- 🔭 Atualmente estou trabalhando na criação de um softwere **Softwere**                      ![download](https://github.com/Jefmz/Jefmz/assets/136089454/82eb34c1-56dc-40b7-b146-348bc957cedc)
+- 🔭 Atualmente estou trabalhando na criação de um softwere **Softwere**                     
 
 
 - 🌱 Atualmente estou aprendendo **Java, marketing digital**
 
-- 👯 Estou procurando colaborar com algum programa que envolva acração de um softwere focado em programação do futuro **inovate prgraming**
+- 👯 Estou procurando colaborar com algum programa que envolva acração de um softwere focado em programação do futuro **inovate prgraming** ![download](https://github.com/Jefmz/Jefmz/assets/136089454/82eb34c1-56dc-40b7-b146-348bc957cedc)
 
 - 📫 Você pode me encontrar pelo email **jefersondavidsesi@gmail.com**
 

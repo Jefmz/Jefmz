@@ -1,14 +1,15 @@
 
 
-<h3 align="![Uploading download.jpg…]()                                                                                                         
-center">Um desenvolvedor front-end apaixonado por inovar🔗</h3>
+<h1 align="center">Olá 🖖, meu nome é Jeferson David</h1>
+![download](https://github.com/Jefmz/Jefmz/assets/136089454/2b44964e-9d9c-49c3-ae16-72e4db05f0e8)
 
-- 🔭 Atualmente estou trabalhando na criação de um softwere **Softwere**                     
+<h3 align="center">Um desenvolvedor front-end apaixonado por inovar🔗</h3>
 
+- 🔭 Atualmente estou trabalhando na criação de um softwere **Softwere**
 
 - 🌱 Atualmente estou aprendendo **Java, marketing digital**
 
-- 👯 Estou procurando colaborar com algum programa que envolva acração de um softwere focado em programação do futuro **inovate prgraming** ![download](https://github.com/Jefmz/Jefmz/assets/136089454/82eb34c1-56dc-40b7-b146-348bc957cedc)
+- 👯 Estou procurando colaborar com algum programa que envolva acração de um softwere focado em programação do futuro **inovate prgraming**
 
 - 📫 Você pode me encontrar pelo email **jefersondavidsesi@gmail.com**
 
@@ -19,5 +20,3 @@ center">Um desenvolvedor front-end apaixonado por inovar🔗</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-

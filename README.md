@@ -1,4 +1,5 @@
-[Seja bem-vindo](https://github.com/Jefmz/Jefmz/assets/136089454/798f7f04-9bb5-4988-b65b-8cecdb3f2742)
+![305676741-798f7f04-9bb5-4988-b65b-8cecdb3f2742](https://github.com/Jefmz/Jefmz/assets/136089454/2c2584dc-bbcc-4af8-8409-47872ac94d72)
+
 Olá 🖖!!
 ,eu sou Jeferson David</h1>![Uploadi
 Um desenvolvedor front-end apaixonado por inovar do Brasil</h3>

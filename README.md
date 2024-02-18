@@ -1,6 +1,5 @@
-![oipi](https://github.com/Jefmz/Jefmz/assets/136089454/26cff5cf-31d6-4bb1-85d4-462c10c044c8)<h1 align="center">Olá 🖖!,eu sou Jeferson David</h1>![Uploadi
-            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="300" viewBox="0 0 854 300">
-<h3 align="center">Um desenvolvedor front-end apaixonado por inovar do Brasil</h3>
+Olá 🖖!,eu sou Jeferson David</h1>![Uploadi
+Um desenvolvedor front-end apaixonado por inovar do Brasil</h3>
 
 - -🔭 Atualmente estou trabalhando na criação de um **softwere de analise de dados**
 

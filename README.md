@@ -1,4 +1,6 @@
-Olá 🖖!,eu sou Jeferson David</h1>![Uploadi
+[Seja bem-vindo](https://github.com/Jefmz/Jefmz/assets/136089454/798f7f04-9bb5-4988-b65b-8cecdb3f2742)
+Olá 🖖!!
+,eu sou Jeferson David</h1>![Uploadi
 Um desenvolvedor front-end apaixonado por inovar do Brasil</h3>
 
 - -🔭 Atualmente estou trabalhando na criação de um **softwere de analise de dados**

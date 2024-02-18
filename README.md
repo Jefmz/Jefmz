@@ -1,7 +1,6 @@
-![305676741-798f7f04-9bb5-4988-b65b-8cecdb3f2742](https://github.com/Jefmz/Jefmz/assets/136089454/2c2584dc-bbcc-4af8-8409-47872ac94d72)
 
-Olá 🖖!!
-,eu sou Jeferson David</h1>![Uploadi
+,eu so![305676741-798f7f04-9bb5-4988-b65b-8cecdb3f2742-removebg-preview](https://github.com/Jefmz/Jefmz/assets/136089454/4c354faf-2263-48f8-8b8e-a72ba0587b06)
+u Jeferson David</h1>![Uploadi
 Um desenvolvedor front-end apaixonado por inovar do Brasil</h3>
 
 - -🔭 Atualmente estou trabalhando na criação de um **softwere de analise de dados**
